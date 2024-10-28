@@ -168,7 +168,7 @@
                                                 </div>
                                                 <div class="grow">
                                                     <h6>Kristen Redden</h6>
-                                                    <p class="text-slate-500 dark:text-zink-200">kredden@starcode.com</p>
+                                                    <p class="text-slate-500 dark:text-zink-200">kredden@gmail.com</p>
                                                 </div>
                                             </div>
                                         </td>
@@ -198,7 +198,7 @@
                                                 </div>
                                                 <div class="grow">
                                                     <h6>Howard George</h6>
-                                                    <p class="text-slate-500 dark:text-zink-200">george@starcode.com</p>
+                                                    <p class="text-slate-500 dark:text-zink-200">george@gmail.com</p>
                                                 </div>
                                             </div>
                                         </td>
@@ -228,7 +228,7 @@
                                                 </div>
                                                 <div class="grow">
                                                     <h6>Laura Carlson</h6>
-                                                    <p class="text-slate-500 dark:text-zink-200">carlson15@starcode.com</p>
+                                                    <p class="text-slate-500 dark:text-zink-200">carlson15@gmail.com</p>
                                                 </div>
                                             </div>
                                         </td>
@@ -258,7 +258,7 @@
                                                 </div>
                                                 <div class="grow">
                                                     <h6>Joseph Hawkins</h6>
-                                                    <p class="text-slate-500 dark:text-zink-200">joseph@starcode.com</p>
+                                                    <p class="text-slate-500 dark:text-zink-200">joseph@gmail.com</p>
                                                 </div>
                                             </div>
                                         </td>
@@ -288,7 +288,7 @@
                                                 </div>
                                                 <div class="grow">
                                                     <h6>Jeremy  Clifford</h6>
-                                                    <p class="text-slate-500 dark:text-zink-200">joseph@starcode.com</p>
+                                                    <p class="text-slate-500 dark:text-zink-200">joseph@gmail.com</p>
                                                 </div>
                                             </div>
                                         </td>
@@ -407,15 +407,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="flex gap-3 p-2 mt-3 rounded-md bg-custom-500">
-                            <div class="shrink-0">
-                                <img src="{{ URL::to('assets/images/profile.png') }}" alt="" class="h-24">
-                            </div>
-                            <div>
-                                <h6 class="mb-1 text-15 text-custom-50">Need Help ?</h6>
-                                <p class="text-custom-200">If you would like to learn more about transferring the license to a customer</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="col-span-12 md:order-10 lg:col-span-6 xl:col-span-4 2xl:col-span-3 card">
@@ -463,7 +455,7 @@
                                         </div>
                                         <div class="grow">
                                             <h6 class="mb-1"><a href="#!">James Krogman</a></h6>
-                                            <p class="text-slate-500 dark:text-zink-200">james@starcode.com</p>
+                                            <p class="text-slate-500 dark:text-zink-200">james@gmail.com</p>
                                         </div>
                                         <div class="relative dropdown shrink-0">
                                             <button type="button" class="flex items-center justify-center w-[30px] h-[30px] p-0 bg-white text-slate-500 btn hover:text-slate-500 hover:bg-slate-100 focus:text-slate-500 focus:bg-slate-100 active:text-slate-500 active:bg-slate-100 dark:bg-zink-700 dark:hover:bg-slate-500/10 dark:focus:bg-slate-500/10 dark:active:bg-slate-500/10 dropdown-toggle" id="interviewDropdown" data-bs-toggle="dropdown">
@@ -494,11 +486,11 @@
                                 <div class="border rounded-md border-slate-200 dark:border-zink-500">
                                     <div class="flex flex-wrap items-center gap-3 p-2">
                                         <div class="rounded-full size-10 shrink-0">
-                                            <img src="{{ URL::to('assets/images/user-2.jpg') }}" alt="" class="h-10 rounded-full">
+                                            <img src="{{ URL::to('assets/images/profile.png') }}" alt="" class="h-10 rounded-full">
                                         </div>
                                         <div class="grow">
                                             <h6 class="mb-1"><a RuangHR</a></h6>
-                                            <p class="text-slate-500 dark:text-zink-200">starcode@starcode.com</p>
+                                            <p class="text-slate-500 dark:text-zink-200">gmail@gmail.com</p>
                                         </div>
                                         <div class="relative dropdown shrink-0">
                                             <button type="button" class="flex items-center justify-center w-[30px] h-[30px] p-0 bg-white text-slate-500 btn hover:text-slate-500 hover:bg-slate-100 focus:text-slate-500 focus:bg-slate-100 active:text-slate-500 active:bg-slate-100 dark:bg-zink-700 dark:hover:bg-slate-500/10 dark:focus:bg-slate-500/10 dark:active:bg-slate-500/10 dropdown-toggle" id="interviewDropdown2" data-bs-toggle="dropdown">
@@ -533,7 +525,7 @@
                                         </div>
                                         <div class="grow">
                                             <h6 class="mb-1"><a href="#!">Denise Ledford</a></h6>
-                                            <p class="text-slate-500 dark:text-zink-200">ledford@starcode.com</p>
+                                            <p class="text-slate-500 dark:text-zink-200">ledford@gmail.com</p>
                                         </div>
                                         <div class="relative dropdown shrink-0">
                                             <button type="button" class="flex items-center justify-center w-[30px] h-[30px] p-0 bg-white text-slate-500 btn hover:text-slate-500 hover:bg-slate-100 focus:text-slate-500 focus:bg-slate-100 active:text-slate-500 active:bg-slate-100 dark:bg-zink-700 dark:hover:bg-slate-500/10 dark:focus:bg-slate-500/10 dark:active:bg-slate-500/10 dropdown-toggle" id="interviewDropdown3" data-bs-toggle="dropdown">
@@ -568,7 +560,7 @@
                                         </div>
                                         <div class="grow">
                                             <h6 class="mb-1"><a href="#!">Gladys Smith</a></h6>
-                                            <p class="text-slate-500 dark:text-zink-200">gap-4@starcode.com</p>
+                                            <p class="text-slate-500 dark:text-zink-200">gap-4@gmail.com</p>
                                         </div>
                                         <div class="relative dropdown shrink-0">
                                             <button type="button" class="flex items-center justify-center w-[30px] h-[30px] p-0 bg-white text-slate-500 btn hover:text-slate-500 hover:bg-slate-100 focus:text-slate-500 focus:bg-slate-100 active:text-slate-500 active:bg-slate-100 dark:bg-zink-700 dark:hover:bg-slate-500/10 dark:focus:bg-slate-500/10 dark:active:bg-slate-500/10 dropdown-toggle" id="interviewDropdown4" data-bs-toggle="dropdown">

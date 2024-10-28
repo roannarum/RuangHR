@@ -102,7 +102,7 @@
                         </div>
                         <div class="lg:col-span-12 2xl:col-span-2">
                             <div class="flex gap-2 2xl:justify-end">
-                                <a href="mailto:StarCode Kh@gmail.com" class="flex items-center justify-center size-[37.5px] p-0 text-slate-500 btn bg-slate-100 hover:text-white hover:bg-slate-600 focus:text-white focus:bg-slate-600 focus:ring focus:ring-slate-100 active:text-white active:bg-slate-600 active:ring active:ring-slate-100 dark:bg-slate-500/20 dark:text-slate-400 dark:hover:bg-slate-500 dark:hover:text-white dark:focus:bg-slate-500 dark:focus:text-white dark:active:bg-slate-500 dark:active:text-white dark:ring-slate-400/20"><i data-lucide="mail" class="size-4"></i></a>
+                                <a href="mailto:dewiarumsari38@gmail.com" class="flex items-center justify-center size-[37.5px] p-0 text-slate-500 btn bg-slate-100 hover:text-white hover:bg-slate-600 focus:text-white focus:bg-slate-600 focus:ring focus:ring-slate-100 active:text-white active:bg-slate-600 active:ring active:ring-slate-100 dark:bg-slate-500/20 dark:text-slate-400 dark:hover:bg-slate-500 dark:hover:text-white dark:focus:bg-slate-500 dark:focus:text-white dark:active:bg-slate-500 dark:active:text-white dark:ring-slate-400/20"><i data-lucide="mail" class="size-4"></i></a>
                                 <button type="button" class="text-white transition-all duration-200 ease-linear btn bg-custom-500 border-custom-500 hover:text-white hover:bg-custom-600 hover:border-custom-600 focus:text-white focus:bg-custom-600 focus:border-custom-600 focus:ring focus:ring-custom-100 active:text-white active:bg-custom-600 active:border-custom-600 active:ring active:ring-custom-100 dark:ring-custom-400/20">Hire Us</button>
                     
                                 <div class="relative dropdown">
@@ -209,11 +209,11 @@
                                                 </tr>
                                                 <tr>
                                                     <th class="py-2 font-semibold ps-0" scope="row">Website</th>
-                                                    <td class="py-2 text-right text-slate-500 dark:text-zink-200"><a href="http://StarCode Kh.in/" target="_blank" class="text-custom-500">www.starcodekh.com</a></td>
+                                                    <td class="py-2 text-right text-slate-500 dark:text-zink-200"><a href="https://arums.vercel.app/" target="_blank" class="text-custom-500">arums.vercel.app</a></td>
                                                 </tr>
                                                 <tr>
                                                     <th class="py-2 font-semibold ps-0" scope="row">Email</th>
-                                                    <td class="py-2 text-right text-slate-500 dark:text-zink-200">paula@StarCode Kh.com</td>
+                                                    <td class="py-2 text-right text-slate-500 dark:text-zink-200">paula@gmail.com</td>
                                                 </tr>
                                                 <tr>
                                                     <th class="py-2 font-semibold ps-0" scope="row">Location</th>
@@ -292,10 +292,10 @@
                                     <td class="px-3.5 py-2.5 border-y border-transparent">
                                         <span class="px-2.5 py-0.5 inline-block text-xs font-medium rounded border bg-slate-100 border-transparent text-slate-500 dark:bg-slate-500/20 dark:text-zink-200 dark:border-transparent">PSD</span>
                                     </td>
-                                    <td class="px-3.5 py-2.5 border-y border-transparent">starcode Design Kit.psd</td>
+                                    <td class="px-3.5 py-2.5 border-y border-transparent">rRuangHR</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">234.87 MB</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">29 Jan, 2023</td>
-                                    <td class="px-3.5 py-2.5 border-y border-transparent">StarCode Kh</td>
+                                    <td class="px-3.5 py-2.5 border-y border-transparent">RuangHR</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent"><span class="ppx-2.5 py-0.5 inline-block text-xs font-medium rounded border bg-green-100 border-transparent text-green-500 dark:bg-green-500/20 dark:border-transparent">Successful</span></td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">
                                         <div class="flex items-center justify-end gap-2">
@@ -364,7 +364,7 @@
                                     <td class="px-3.5 py-2.5 border-y border-transparent">starcode Guide Video.mp4</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">149.33 MB</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">12 Nov, 2023</td>
-                                    <td class="px-3.5 py-2.5 border-y border-transparent">StarCode Kh</td>
+                                    <td class="px-3.5 py-2.5 border-y border-transparent">RuangHR</td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent"><span class="px-2.5 py-0.5 inline-block text-xs font-medium rounded border bg-yellow-100 border-transparent text-yellow-500 dark:bg-yellow-500/20 dark:border-transparent">Pending</span></td>
                                     <td class="px-3.5 py-2.5 border-y border-transparent">
                                         <div class="flex items-center justify-end gap-2">

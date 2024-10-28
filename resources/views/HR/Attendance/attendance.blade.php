@@ -38,8 +38,8 @@
                                 <div class="mx-auto rounded-full size-20 bg-slate-100 dark:bg-zink-600">
                                     <img src="{{ URL::to('assets/images/profile.png') }}" alt="" class="h-20 rounded-full">
                                 </div>
-                                <h6 class="mt-3 mb-1 text-16"><a href="#!">Soeng Souy</a></h6>
-                                <p class="text-slate-500 dark:text-zink-200">Product Designer</p>
+                                <h6 class="mt-3 mb-1 text-16"><a href="#!">Dewi Arumsari</a></h6>
+                                <p class="text-slate-500 dark:text-zink-200">Web Developer</p>
                             </div>
                             <div class="mt-5 overflow-x-auto">
                                 <table class="w-full mb-0">

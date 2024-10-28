@@ -2,10 +2,10 @@
 <html lang="en" class="light scroll-smooth group" data-layout="vertical" data-sidebar="light" data-sidebar-size="lg" data-mode="light" data-topbar="light" data-skin="default" data-navbar="sticky" data-content="fluid" dir="ltr">
 <head>
     <meta charset="utf-8">
-    <title>HR | StarCode - Admin & Dashboard Template</title>
+    <title>RuangHR</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta content="Minimal Admin & Dashboard Template" name="description">
-    <meta content="StarCode Kh" name="author">
+    <meta content="RuangHR" name="author">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- App favicon -->
     <link rel="shortcut icon" href="{{ URL::to('assets/images/favicon.ico') }}">
@@ -106,9 +106,9 @@
                                         <img src="{{ URL::to('assets/images/flag/us.svg') }}" alt="" class="object-cover h-4 rounded-full">
                                         <h6 class="transition-all duration-200 ease-linear font-15medium text- text-slate-600 dark:text-zink-200 group-hover/items:text-custom-500">English</h6>
                                     </a>
-                                    <a href="#!" class="flex items-center gap-3 group/items language" data-lang="kh" title="Khmer">
-                                        <img src="{{ URL::to('assets/images/flag/kh.png') }}" alt="" class="object-cover h-4 rounded-full">
-                                        <h6 class="transition-all duration-200 ease-linear font-15medium text- text-slate-600 dark:text-zink-200 group-hover/items:text-custom-500">Khmer</h6>
+                                    <a href="#!" class="flex items-center gap-3 group/items language" data-lang="id" title="Indonesia">
+                                        <img src="{{ URL::to('assets/images/flag/id.png') }}" alt="" class="object-cover h-4 rounded-full">
+                                        <h6 class="transition-all duration-200 ease-linear font-15medium text- text-slate-600 dark:text-zink-200 group-hover/items:text-custom-500">Indonesia</h6>
                                     </a>
                                 </div>
                             </div>
@@ -286,12 +286,7 @@
                                                 <i data-lucide="messages-square" class="inline-block size-4 ltr:mr-2 rtl:ml-2"></i> Chat
                                             </a>
                                         </li>
-                                        <li>
-                                            <a class="block ltr:pr-4 rtl:pl-4 py-1.5 text-base font-medium transition-all duration-200 ease-linear text-slate-600 dropdown-item hover:text-custom-500 focus:text-custom-500 dark:text-zink-200 dark:hover:text-custom-500 dark:focus:text-custom-500" href="pages-pricing.html">
-                                                <i data-lucide="gem" class="inline-block size-4 ltr:mr-2 rtl:ml-2"></i> Upgrade 
-                                                <span class="inline-flex items-center justify-center w-auto h-5 ltr:ml-2 rtl:mr-2 px-1 text-[12px] font-medium border rounded text-white bg-sky-500 border-sky-500">Pro</span>
-                                            </a>
-                                        </li>
+                                        
                                         <li class="pt-2 mt-2 border-t border-slate-200 dark:border-zink-500">
                                             <a class="block ltr:pr-4 rtl:pl-4 py-1.5 text-base font-medium transition-all duration-200 ease-linear text-slate-600 dropdown-item hover:text-custom-500 focus:text-custom-500 dark:text-zink-200 dark:hover:text-custom-500 dark:focus:text-custom-500" href="{{ route('logout') }}">
                                                 <i data-lucide="log-out" class="inline-block size-4 ltr:mr-2 rtl:ml-2"></i> Sign Out
@@ -319,11 +314,11 @@
                 <div class="group-data-[layout=horizontal]:mx-auto group-data-[layout=horizontal]:max-w-screen-2xl w-full">
                     <div class="grid items-center grid-cols-1 text-center lg:grid-cols-2 text-slate-400 dark:text-zink-200 ltr:lg:text-left rtl:lg:text-right">
                         <div>
-                            <script>document.write(new Date().getFullYear())</script> StarCode Kh
+                            <script>document.write(new Date().getFullYear())</script> RuangHR
                         </div>
                         <div class="hidden lg:block">
                             <div class="ltr:text-right rtl:text-left">
-                                Design & Develop by StarCode Kh
+                                RuangHR
                             </div>
                         </div>
                     </div>
@@ -342,7 +337,7 @@
     <div id="customizerButton" drawer-end="" class="fixed inset-y-0 flex flex-col w-full transition-transform duration-300 ease-in-out transform bg-white shadow ltr:right-0 rtl:left-0 md:w-96 z-drawer show dark:bg-zink-600">
         <div class="flex justify-between p-4 border-b border-slate-200 dark:border-zink-500">
             <div class="grow">
-                <h5 class="mb-1 text-16">starcode Theme Customizer</h5>
+                <h5 class="mb-1 text-16">RuangHR Theme Customizer</h5>
                 <p class="font-normal text-slate-500 dark:text-zink-200">Choose your themes & layouts etc.</p>
             </div>
             <div class="shrink-0">
