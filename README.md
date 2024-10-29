@@ -4,4 +4,4 @@ RuangHR is a web-based Human Resource Management System (HRMS) designed to strea
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1qHAtxBHvdlSY_hYekXqJ29l7tUhbvXIj)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1i56zeIfF2xeBLXJdyc-2mklxNne9onRO)
